@@ -2,7 +2,7 @@
 > The world's smallest Evil Portal running on a LilyGo T-QT device
 
 ## Previews
-![](./screens/preview.png)
+![](./.screens/preview.png)
 
 ## Information
 todo
